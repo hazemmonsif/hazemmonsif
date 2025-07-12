@@ -132,13 +132,17 @@ class HazemMonsif : Person
 - **Projects**:
   - **El-Burhan Academy Web Application**: An educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
   - **Electronic Mind of Alzheimer Patient**: An advanced healthcare management system for managing Alzheimer's patients, integrating real-time patient monitoring, appointment scheduling, and medication management using Flutter and FastAPI.
+<div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmonsif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmonsif&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=hazemmonsif&icon=0&color=0)](https://visitcount.itsvg.in)
 
