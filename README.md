@@ -15,10 +15,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 .NET Core
-- 🎮 Game Designer
-- 💻 Problem Solver
-- 🚀 BackEnd Developer
+- 🎓 **Education**: Computer Science at El Shorouk Academy
+- 🌱 **Currently Learning**: Machine Learning, Deep Learning, Computer Vision And Game Designing
+- 🎮 **Interests**: Game Development (Unity), Backend Architecture, Problem Solving
+- 📍 **Location**: Cairo, Egypt
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1JObF83iYev4_y-RwfXBeKKfjZkc2P7uD/view?usp=sharing)*
 <br />
