@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Hazem Monsif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">.NET Core Developer 🌍</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0951F7&width=435&lines=%F0%9F%92%BB+.NET+Core+Developer;%F0%9F%A7%A9+Problem+Solver;%F0%9F%9A%80+Backend+Developer;%F0%9F%93%9A+Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=1000&color=3267F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%BB+.NET+Core+Developer;%F0%9F%A7%A9+Problem+Solver;%F0%9F%9A%80+Backend+Developer;%F0%9F%93%9A+Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-monsif-060b7621a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hazem.work707@gmail.com)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201148874433)
 
